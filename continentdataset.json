@@ -22,9 +22,5 @@
   {
     "name": "Oceania",
     "image": "https://raw.githubusercontent.com/arif-cloud/DataSetContinents/main/oceania.jpg"
-  },
-  {
-    "name": "Antarctica",
-    "image": "https://raw.githubusercontent.com/arif-cloud/DataSetContinents/main/antarctica.jpg"
   }
 ]
