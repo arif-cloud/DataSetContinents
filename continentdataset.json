@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Asia",
+    "image": "https://raw.githubusercontent.com/arif-cloud/DataSetContinents/main/asia.jpg"
+  },
+  {
+    "name": "Europe",
+    "image": "https://raw.githubusercontent.com/arif-cloud/DataSetContinents/main/europe.jpg"
+  },
+  {
+    "name": "Africa",
+    "image": "https://raw.githubusercontent.com/arif-cloud/DataSetContinents/main/africa.jpg"
+  },
+  {
+    "name": "North America",
+    "image": "https://raw.githubusercontent.com/arif-cloud/DataSetContinents/main/northamerica.jpeg"
+  },
+  {
+    "name": "South America",
+    "image": "https://raw.githubusercontent.com/arif-cloud/DataSetContinents/main/southamerica.jpg"
+  },
+  {
+    "name": "Oceania",
+    "image": "https://raw.githubusercontent.com/arif-cloud/DataSetContinents/main/oceania.jpg"
+  },
+  {
+    "name": "Antarctica",
+    "image": "https://raw.githubusercontent.com/arif-cloud/DataSetContinents/main/antarctica.jpg"
+  }
+]
